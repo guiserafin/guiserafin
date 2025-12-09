@@ -1,4 +1,12 @@
-# guiserafin - Backend Developer
+# Guilherme Serafin de Carvalho - FullStack Developer
+
+<pre>
+  FullStack Developer with 3 years of experience in web development, specializing in C# and .NET
+  Core. Strong background in building RESTful APIs, integrating systems through Azure pipelines,
+  and optimizing PostgreSQL databases. Proficient in Docker containerization, code versioning with
+  Git, and implementing CI/CD pipelines. Experienced in Agile environments (Scrum and Kanban),
+  with a focus on continuous improvement and delivering high-quality solutions.
+</pre>
 
 <div>
   <a href="https://github.com/guiserafin">
@@ -9,9 +17,10 @@
 ### My current stack 🚀
 <div style="display: inline_block"><br>
 <!--   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
-  <img align="center" alt="php" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+  <img align="center" alt="php" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 </div>
  
  <br>
